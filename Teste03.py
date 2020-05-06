@@ -1,0 +1,8 @@
+vcnasceu=('Você nasceu no dia')
+de1=('de')
+de2=('de')
+correto=('. Correto?')
+dia=input('Digite sua data de nascimento')
+mes=input('Digite o seu mês de nascimento')
+ano=input('Digite o seu ano de nascimento')
+print(vcnasceu,dia,de1,mes,de2,ano,correto)
