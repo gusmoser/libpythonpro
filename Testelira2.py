@@ -1,0 +1,7 @@
+ola=('Olá')
+nome=input('Digite seu nome')
+exclamacao=('!')
+nomechefe=input('Digite o nome do seu chefe')
+msgchefe=(',Vixe, Com esse nome seu chefe só pode ser Chinês e BIXA')
+msg=('Prazer em te conhecer')
+print(ola,nome,msg,exclamacao,nomechefe,msgchefe)
